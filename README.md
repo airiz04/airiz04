@@ -6,5 +6,5 @@ Thank you for checking out my GitHub, welcome! :)
 - 🌱 I’m currently learning: Spring, Frontend Development (HTML, CSS, JS), and practicing LeetCode.
 - 👯 I’m looking to collaborate on a multitude of different projects and contribute, while learning more in the process.
 - 💬 Ask me about internship and/or hiring opportunities, and about skills I have, or lack so I can work on them.
-- ⚡ Fun fact: I have a super diverse taste in music, let me listen to your favorite song!
+
 
